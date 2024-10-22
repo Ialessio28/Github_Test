@@ -33,7 +33,7 @@ class FishingInPixels : ComponentActivity() {
 @Composable
 fun Greeting5(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name! I also changed something here",
+        text = "Hello $name! I also changed something here also this one",
         modifier = modifier
     )
 }
