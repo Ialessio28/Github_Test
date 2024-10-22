@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Github_Test</string>
     <string name="title_activity_github_test">Github_Test</string>
+    <string name="title_activity_joyless">Joyless</string>
+    <string name="title_activity_lessjoy">Lessjoy</string>
+    <string name="title_activity_test">Test</string>
 </resources>
